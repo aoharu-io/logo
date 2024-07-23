@@ -1,10 +1,10 @@
-# Logos
-Logos used in Rext
+# Logo
+Logo used in AoHaru I/O
 
 ## Creation Environment
-Inkscape 1.1.2
+Inkscape
 
 ## Author
 Takkun053
 
-Copyright © 2022 Rext-Team. All Rights Reserved.
+Copyright © 2022-2023 AoHaru I/O. All Rights Reserved.
